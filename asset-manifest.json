@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CakeDrama/static/css/main.6193f08d.css",
+    "main.js": "/CakeDrama/static/js/main.739d31a9.js",
+    "static/js/787.b620f47e.chunk.js": "/CakeDrama/static/js/787.b620f47e.chunk.js",
+    "static/media/under_nav_img_notMain.jpg": "/CakeDrama/static/media/under_nav_img_notMain.fab45d8d8fa2dd0a86a5.jpg",
+    "index.html": "/CakeDrama/index.html",
+    "main.6193f08d.css.map": "/CakeDrama/static/css/main.6193f08d.css.map",
+    "main.739d31a9.js.map": "/CakeDrama/static/js/main.739d31a9.js.map",
+    "787.b620f47e.chunk.js.map": "/CakeDrama/static/js/787.b620f47e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6193f08d.css",
+    "static/js/main.739d31a9.js"
+  ]
+}
